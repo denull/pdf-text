@@ -1,0 +1,24 @@
+{
+  "name": "pdf-text",
+  "version": "0.1.0",
+  "description": "A micro library for parsing PDFs and extracting text from them",
+  "main": "pdf-text.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deNULL/pdf-text.git"
+  },
+  "keywords": [
+    "pdf",
+    "text",
+    "parse"
+  ],
+  "author": "Denis Olshin (me@denull.ru)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deNULL/pdf-text/issues"
+  },
+  "homepage": "https://github.com/deNULL/pdf-text#readme"
+}
